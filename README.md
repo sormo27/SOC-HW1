@@ -31,7 +31,7 @@
 
 ## Block Design 圖
 
-![Block Design 圖]("C:\Users\paul7\OneDrive\桌面\系統晶片設計\hw1\Block Design 圖.png")
+![Block Design 圖](hw1\Block Design 圖.png)
 ## 示範影片連結
 [👉 點我觀看影片](https://youtu.be/EJHje2ceJPk?si=HODhzvzEDTRMRPkG)
 
