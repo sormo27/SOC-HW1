@@ -31,7 +31,7 @@
 
 ## Block Design 圖
 
-![Block Design 圖](hw1\Block Design 圖.png)
+![Block Design 圖](img\Block Design 圖.png)
 ## 示範影片連結
 [👉 點我觀看影片](https://youtu.be/EJHje2ceJPk?si=HODhzvzEDTRMRPkG)
 
