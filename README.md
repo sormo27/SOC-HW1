@@ -29,9 +29,10 @@
 - **Xilinx Vivado 2018：** 用於硬體設計與合成。
 - **Xilinx SDK：** 用於開發軟體並控制 PS。
 
-## Block Design 圖
+## 📷 Block Design 圖
 
-![Block Design 圖](img\Block Design 圖.png)
+![Block Design 圖](img/Block%20Design%20圖.png)
+
 ## 示範影片連結
 [👉 點我觀看影片](https://youtu.be/EJHje2ceJPk?si=HODhzvzEDTRMRPkG)
 
